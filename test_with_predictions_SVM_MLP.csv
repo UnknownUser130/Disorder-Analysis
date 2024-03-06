@@ -1,0 +1,244 @@
+id,Text,predicted_label
+0,I'm worried about the impact of panic on my relationships.,Panic Disorder
+1,Trying to maintain my equilibrium when emotions run high.,Anger/ Intermittent Explosive Disorder
+2,Feeling like I'm in a constant struggle to find stability within myself.,Depression
+3,I'm quick to dismiss others' opinions as less important than mine.,Narcissistic Disorder
+4,I hate the person I become when I'm consumed by anger.,Panic Disorder
+5,Trying to exude charisma and energy that uplifts those around me.,Panic Disorder
+6,The knowledge of my own exceptionalism sets me apart.,Narcissistic Disorder
+7,Trying to find a balance between expressing emotions and maintaining calm.,Depression
+8,I'm avoiding situations that might trigger panic symptoms.,Panic Disorder
+9,I feel entitled to special privileges due to my uniqueness.,Panic Disorder
+10,"The pain can be constant, even when I'm able to smile in public.",Depression
+11,The fear of judgment can keep me from expressing my true self.,Anxiety Disorder
+12,I want to break free from the grip of my intense anger.,Anger/ Intermittent Explosive Disorder
+13,I'm struggling to breathe and it's terrifying.,Panic Disorder
+14,I feel entitled to be the center of attention in any situation.,Narcissistic Disorder
+15,"My mind can become a storm of worry, drowning out reason.",Anxiety Disorder
+16,Trying to find outlets for emotions without causing damage.,Anger/ Intermittent Explosive Disorder
+17,My heart can feel like it's racing in a race it can't win.,Panic Disorder
+18,"Even in moments of joy, there's a nagging feeling that it won't last.",Depression
+19,"I'm constantly on edge, waiting for the next attack.",Panic Disorder
+20,I'm constantly seeking certainty and reassurance to ease my anxiety.,Anxiety Disorder
+21,I'm so ashamed of how I'm feeling.,Anger/ Intermittent Explosive Disorder
+22,I wish I could find a way to break the cycle of anger.,Anger/ Intermittent Explosive Disorder
+23,I'm losing interest in everything around me.,Depression
+24,I'm worried about the long-term impact of my anxiety.,Anxiety Disorder
+25,I wish I could find a way to express myself without the rage.,Anger/ Intermittent Explosive Disorder
+26,"Even in moments of laughter, a heaviness can linger beneath the surface.",Panic Disorder
+27,I'm terrified of the future and what it holds.,Depression
+28,I feel like I'm trapped and can't escape.,Anxiety Disorder
+29,Feeling like I'm grappling with a torrent of intense emotions.,Anger/ Intermittent Explosive Disorder
+30,I find it hard to empathize with others' struggles.,Narcissistic Disorder
+31,My anger feels like a volcano ready to erupt at any moment.,Depression
+32,The pursuit of greatness is a constant motivation in my life.,Panic Disorder
+33,I'm constantly on guard for any signs of panic.,Panic Disorder
+34,Feeling like I'm in a constant battle against my own mind.,Anxiety Disorder
+35,"The struggle is real, and finding healthy ways to manage emotions is key.",Depression
+36,The challenge is to communicate my feelings without overwhelming others.,Depression
+37,"The pain is real, even when I put on a smile for the world.",Depression
+38,"I feel entitled to be praised for my efforts, no matter how small.",Depression
+39,Trying to find ways to express emotions without causing harm.,Anger/ Intermittent Explosive Disorder
+40,I'm quick to take credit for others' successes.,Narcissistic Disorder
+41,Feeling like I'm destined to leave a lasting impact on the world.,Panic Disorder
+42,"Feeling like I'm on the edge of a cliff, with no safety net below.",Panic Disorder
+43,I wish I could find a way to break free from my anger.,Anger/ Intermittent Explosive Disorder
+44,I'm struggling to explain what's happening to me.,Depression
+45,Every day can feel like a battle against my own mind.,Anxiety Disorder
+46,The challenge is learning to channel intense emotions into positive actions.,Depression
+47,It's hard to describe the sensation of being trapped in a cycle of fear.,Panic Disorder
+48,I'm convinced that others envy my success and qualities.,Narcissistic Disorder
+49,It's hard to explain the feeling of being stuck in a cycle of sadness.,Depression
+50,I'm worried that my anger is impacting my mental health.,Narcissistic Disorder
+51,It's like there's an inner drive pushing me toward greatness.,Narcissistic Disorder
+52,I'm struggling to see any good in myself or my life.,Depression
+53,I feel like I'm battling my own mind every day.,Depression
+54,I'm finding it hard to believe that anyone cares about me.,Anxiety Disorder
+55,I'm worried that people are judging me for my anxiety.,Anxiety Disorder
+56,I believe I'm more important than anyone else in the room.,Panic Disorder
+57,Trying to balance my natural leadership skills with humility.,Narcissistic Disorder
+58,The challenge is to defuse intense emotions before they escalate further.,Anger/ Intermittent Explosive Disorder
+59,"I'm having intense, irrational thoughts of doom.",Anxiety Disorder
+60,I expect others to be impressed by my achievements.,Narcissistic Disorder
+61,The pressure of managing strong emotions can be exhausting.,Depression
+62,I feel like I'm being held hostage by my own fear.,Panic Disorder
+63,I'm consumed by the fear of failure and disappointment.,Anxiety Disorder
+64,I'm struggling to manage the physical symptoms of my anxiety.,Anxiety Disorder
+65,"Even in moments of joy, there's a nagging feeling that it won't last.",Depression
+66,It's hard to explain the feeling of being the center of attention.,Narcissistic Disorder
+67,I don't know how to explain what I'm going through.,Panic Disorder
+68,It's hard to explain the inner tempest that can brew within me.,Depression
+69,I'm struggling to find a reason to keep going.,Anxiety Disorder
+70,Small accomplishments can feel like monumental victories.,Depression
+71,"Even when I want to feel better, my energy is drained by invisible forces.",Depression
+72,It's like I'm carrying a heavy burden that nobody else can see.,Depression
+73,"Even when things are going well, my mind can invent reasons to worry.",Anxiety Disorder
+74,I'm terrified of the physical sensations that accompany panic.,Panic Disorder
+75,I expect people to prioritize my needs and desires.,Narcissistic Disorder
+76,I'm experiencing a pounding heart that won't calm down.,Panic Disorder
+77,I'm avoiding situations that trigger panic attacks.,Panic Disorder
+78,It's hard to explain the allure of success and its magnetic pull.,Narcissistic Disorder
+79,I feel like I'm suffocating and can't escape.,Depression
+80,I'm feeling like I'm on the verge of a breakdown.,Depression
+81,I feel like I'm in a never-ending loop of anxious thoughts.,Anxiety Disorder
+82,I'm always analyzing every situation for potential threats.,Panic Disorder
+83,My anger feels like a storm that I can't escape.,Anger/ Intermittent Explosive Disorder
+84,I'm avoiding situations that remind me of past attacks.,Panic Disorder
+85,I'm annoyed when people don't recognize my brilliance.,Narcissistic Disorder
+86,I'm worried that my anxiety will drive people away.,Panic Disorder
+87,I regret the hurtful actions I've taken in moments of anger.,Depression
+88,"It's like I'm a magnet, drawing people toward my dynamic presence.",Narcissistic Disorder
+89,Feeling like I'm navigating through a fog that obscures my future.,Depression
+90,I'm struggling to enjoy the present because I'm worried about the future.,Depression
+91,I believe I'm more important than others around me.,Panic Disorder
+92,I feel like I'm living in a state of perpetual unease.,Anxiety Disorder
+93,Feeling like I'm in a maze of worry with no clear way out.,Depression
+94,"Feeling disconnected from myself, as if I've lost a part of who I am.",Depression
+95,Feeling like I'm carrying a secret sadness that no one understands.,Depression
+96,It's hard to put into words the overwhelming sensation of fear that washes over me.,Panic Disorder
+97,There are moments when my body feels like it's in a constant state of alarm.,Panic Disorder
+98,I feel like I'm living in a state of constant dread.,Panic Disorder
+99,"Even in a world full of color, I see shades of gray.",Depression
+100,"It's like I'm a unique star, destined to shine brightly in any sky.",Narcissistic Disorder
+101,I'm worried that my anger is isolating me from others.,Anger/ Intermittent Explosive Disorder
+102,Trying to balance my ambition with a genuine concern for others.,Panic Disorder
+103,I'm avoiding situations that make me feel vulnerable or exposed.,Anxiety Disorder
+104,I regret the hurtful things I say when I'm angry.,Depression
+105,I'm annoyed when I'm not immediately recognized for my talents.,Narcissistic Disorder
+106,"The quiet moments can be the hardest, when my thoughts become too loud.",Panic Disorder
+107,It's like I'm wrestling with a whirlwind of powerful emotions.,Depression
+108,"It's like I'm constantly on edge, as if something is about to go wrong.",Panic Disorder
+109,I expect people to be grateful for my presence in their lives.,Narcissistic Disorder
+110,I'm afraid of being judged as weak or crazy.,Depression
+111,Trying to balance my reactions in a world that can be frustrating.,Depression
+112,"I'm always expecting the worst, no matter the situation.",Depression
+113,I can't escape the feeling of impending disaster.,Anxiety Disorder
+114,I feel entitled to the best opportunities and experiences.,Narcissistic Disorder
+115,"Even when I want to remain calm, emotions can surge unexpectedly.",Anger/ Intermittent Explosive Disorder
+116,I expect people to follow my lead without question.,Narcissistic Disorder
+117,"It's like my feelings can escalate suddenly, even when I don't want them to.",Depression
+118,I wish I could find a way to defuse my anger before it explodes.,Anger/ Intermittent Explosive Disorder
+119,I'm struggling to break free from the cycle of anxious thoughts.,Anxiety Disorder
+120,I'm avoiding situations that might push me out of my comfort zone.,Anxiety Disorder
+121,Even small triggers can set off a chain reaction of intense feelings.,Anger/ Intermittent Explosive Disorder
+122,The desire to connect with others battles with the fear of burdening them.,Narcissistic Disorder
+123,Trying to navigate through life when my thoughts are a maze of concerns.,Anxiety Disorder
+124,It's hard to describe the internal struggle of managing intense feelings.,Anger/ Intermittent Explosive Disorder
+125,The struggle is keeping emotions from affecting my interactions with others.,Depression
+126,I'm losing hope that things will ever get better.,Depression
+127,I'm worried that people will think I'm weak if they knew about my anxiety.,Anxiety Disorder
+128,The fear of the unknown can make even the simplest tasks feel daunting.,Depression
+129,I find it hard to accept being wrong or making mistakes.,Anxiety Disorder
+130,"I'm always on edge, waiting for the next thing to stress me out.",Anxiety Disorder
+131,My anger is affecting my ability to think rationally.,Depression
+132,"Even when I tell myself everything's okay, my body reacts as if it's not.",Anxiety Disorder
+133,The desire for recognition and admiration can be a driving force.,Narcissistic Disorder
+134,"It's like there's a volcano inside me, waiting to erupt at any moment.",Anxiety Disorder
+135,I'm struggling to find the words to express what I'm going through.,Anxiety Disorder
+136,I often exaggerate my achievements to make myself look better.,Narcissistic Disorder
+137,"Feeling like I'm walking on a tightrope, always one misstep away from disaster.",Anxiety Disorder
+138,I'm constantly worried about things that might go wrong.,Anxiety Disorder
+139,I'm struggling to find any glimmer of hope.,Depression
+140,The allure of power and success can be hard to resist.,Narcissistic Disorder
+141,It's hard to describe the struggle of reigning in powerful emotions.,Depression
+142,I'm always striving for control in order to manage my anxiety.,Anxiety Disorder
+143,I feel like I'm drowning in fear.,Panic Disorder
+144,I'm worried that my anxiety will define who I am.,Anxiety Disorder
+145,I feel like I'm a different person when I'm consumed by anger.,Anxiety Disorder
+146,It's like I'm a natural-born leader who inspires those around me.,Panic Disorder
+147,I'm constantly afraid that a panic attack will strike at any moment.,Panic Disorder
+148,Feeling like I'm in a constant dance with my own powerful emotions.,Depression
+149,It's hard to describe the sensation of being trapped in a loop of worry.,Anxiety Disorder
+150,I feel like I'm in a deep pit with no way out.,Depression
+151,"Feeling like I'm on the edge of a precipice, teetering between calm and chaos.",Depression
+152,The fear of the unknown can overshadow even the brightest moments.,Anxiety Disorder
+153,I'm tired of feeling so out of balance when I'm angry.,Anger/ Intermittent Explosive Disorder
+154,I wish I could find a way to silence my mind.,Depression
+155,"Even in the midst of laughter, my heart can race with unease.",Anxiety Disorder
+156,I feel like I'm a burden to my loved ones.,Depression
+157,I feel like I'm living in a state of perpetual tension.,Anxiety Disorder
+158,Trying to find a balance between expressing emotions and maintaining calm.,Depression
+159,It's hard to describe the feeling of charting my own extraordinary path.,Narcissistic Disorder
+160,"Even when I tell myself everything's okay, my body reacts as if it's not.",Anxiety Disorder
+161,I'm afraid of being alone during a panic attack.,Panic Disorder
+162,Trying to find hope when everything feels like a struggle.,Depression
+163,"Some days, my emotions feel like a storm that's hard to control.",Depression
+164,I'm afraid of passing out during an attack.,Panic Disorder
+165,I feel like I'm suffocating under the weight of my worries.,Anxiety Disorder
+166,Trying to navigate a world where emotions can feel overwhelming.,Depression
+167,I can't remember the last time I felt truly happy.,Depression
+168,"I'm constantly on guard, waiting for something to trigger my anxiety.",Panic Disorder
+169,I feel like I'm trapped in a cycle of anger and guilt.,Depression
+170,The struggle is finding ways to navigate life when emotions are intense.,Depression
+171,The pressure to avoid errors can feel like a heavy burden on my shoulders.,Depression
+172,I'm constantly seeking reassurance from others to calm my anxiety.,Anxiety Disorder
+173,Feeling guilty for not being able to enjoy life like I used to.,Anxiety Disorder
+174,"The struggle is real, even when I manage to put on a brave face.",Depression
+175,"I struggle to control my anger, even over small things.",Depression
+176,It's hard to describe the turmoil I feel when emotions surge.,Anger/ Intermittent Explosive Disorder
+177,The fear of the future can overshadow even the brightest moments.,Anxiety Disorder
+178,The pressure to meet expectations can feel like a heavy weight on my shoulders.,Depression
+179,I'm struggling to find ways to communicate my frustrations constructively.,Anger/ Intermittent Explosive Disorder
+180,The pressure to meet expectations can feel like a heavy burden.,Depression
+181,I'm too exhausted to do anything.,Depression
+182,I'm feeling detached from reality during an attack.,Panic Disorder
+183,I'm experiencing physical symptoms that terrify me.,Anxiety Disorder
+184,It's hard to describe the feeling of living a life destined for remarkable achievements.,Narcissistic Disorder
+185,Trying to find a way to quiet the inner critic that never seems to rest.,Anxiety Disorder
+186,I'm struggling to find ways to release my anger in a healthy manner.,Narcissistic Disorder
+187,Feeling like I'm a passenger on a roller coaster I can't get off.,Depression
+188,Trying to navigate life with an unwavering belief in my own potential.,Panic Disorder
+189,The desire for recognition and admiration can be a powerful motivator.,Narcissistic Disorder
+190,I'm losing faith in my ability to overcome this.,Panic Disorder
+191,It's like I have a fire inside me that flares up unexpectedly.,Depression
+192,"Even in moments of calm, the tension remains just beneath the surface.",Narcissistic Disorder
+193,I'm worried that my panic will drive people away.,Panic Disorder
+194,"It's like I'm a force of nature, capable of leaving an indelible mark.",Narcissistic Disorder
+195,"My heart is racing, and I can't calm down.",Panic Disorder
+196,I'm afraid of having a panic attack in front of others.,Panic Disorder
+197,It's hard to explain the inner turmoil of managing intense emotions.,Anger/ Intermittent Explosive Disorder
+198,I'm so tired of pretending that everything's okay.,Depression
+199,It's hard to explain the inner storm that can brew within me.,Depression
+200,I'm dismissive of people I perceive as less accomplished.,Narcissistic Disorder
+201,I'm avoiding crowded places out of fear of panic.,Panic Disorder
+202,"I'm constantly fighting against my own anger, trying to keep it at bay.",Depression
+203,My anger is like a storm that takes over my emotions.,Anger/ Intermittent Explosive Disorder
+204,I'm constantly replaying negative thoughts in my head.,Depression
+205,I'm worried about my physical health during an attack.,Anxiety Disorder
+206,I'm constantly scanning for potential threats.,Anxiety Disorder
+207,I feel like I'm overburdened by the weight of my worries.,Anxiety Disorder
+208,Feeling like I am a unique puzzle piece that completes the bigger picture.,Narcissistic Disorder
+209,"I'm constantly on edge, waiting for something to set off my anger.",Narcissistic Disorder
+210,I'm avoiding situations where help might not be available.,Anxiety Disorder
+211,I'm dismissive of people I deem unworthy of my attention.,Panic Disorder
+212,"Even when I don't want to react strongly, my emotions can override logic.",Anger/ Intermittent Explosive Disorder
+213,"Some days, I find myself captivated by my own unique qualities.",Narcissistic Disorder
+214,Trying to find the courage to reach out for support when I need it most.,Depression
+215,I feel like my anger is sabotaging my chances for happiness.,Anger/ Intermittent Explosive Disorder
+216,It's like I'm navigating through a minefield of potential problems.,Anxiety Disorder
+217,It's hard to explain the feeling of being the protagonist of my own story.,Anxiety Disorder
+218,I wish I could turn off the voice in my head that tells me I'm worthless.,Depression
+219,"Feeling emotionally fragile, like I'm walking on eggshells.",Depression
+220,I expect people to value my opinions above all others.,Narcissistic Disorder
+221,I'm afraid of facing the intense fear that accompanies an attack.,Panic Disorder
+222,Feeling like my reactions are stronger than I want them to be.,Depression
+223,I just want the pain to go away.,Depression
+224,Reaching out for help feels difficult when words fall short.,Panic Disorder
+225,I'm avoiding situations that might trigger my anxious thoughts.,Anxiety Disorder
+226,It's like my mind is a magnet for all the things that could go wrong.,Anxiety Disorder
+227,"On the surface, I might seem okay, but beneath it all, I'm hurting.",Anxiety Disorder
+228,"Even when I want to remain calm, emotions can surge unexpectedly.",Anger/ Intermittent Explosive Disorder
+229,I'm worried about my body's physical reactions to anxiety.,Anxiety Disorder
+230,"There are moments when everything feels too loud, too bright, too much.",Depression
+231,I'm annoyed when others don't acknowledge my achievements.,Narcissistic Disorder
+232,Feeling like I'm on a path to achieve things that are truly remarkable.,Depression
+233,"Feeling like I'm constantly bracing for impact, even when there's no danger.",Panic Disorder
+234,Trying to find a way to calm my racing thoughts and pounding heart.,Panic Disorder
+235,I'm constantly afraid of disappointing those around me.,Anxiety Disorder
+236,I can't seem to let go of grudges or past grievances.,Panic Disorder
+237,I'm worried about how panic is impacting my work and life.,Panic Disorder
+238,The pressure to avoid mistakes can keep me from taking risks.,Depression
+239,"Even when challenges arise, I remain unwavering in my self-assuredness.",Narcissistic Disorder
+240,It's like my mind is a radio tuned to the frequency of worst-case scenarios.,Anxiety Disorder
+241,It's hard to explain the surge of panic that can strike at any moment.,Anxiety Disorder
+242,It's hard to explain the inner conflict of managing overwhelming emotions.,Anger/ Intermittent Explosive Disorder
