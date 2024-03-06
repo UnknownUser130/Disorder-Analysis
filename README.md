@@ -20,7 +20,10 @@ nltk
 You can install these dependencies using pip:
 
 ```python
-pip install pandas scikit-learn nltk matplotlib
+pip install pandas
+pip install scikit-learn
+pip install nltk
+pip install matplotlib
 ```
 Additionally, you might need to download NLTK resources such as stopwords and WordNet. You can do this by running the following Python code after installing NLTK:
 
