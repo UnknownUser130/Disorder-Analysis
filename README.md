@@ -1,4 +1,4 @@
-# Disorder Analysis Classification
+# Disorder Analysis
 This repository contains code for a Disorder Analysis Classification Machine Learning project. The goal of this project is to develop a model that can classify the disorder of a person based on textual input into one of several categories such as Anger/ Intermittent Explosive Disorder,Anxiety Disorder,Depression, Narcissistic Disorder,Panic Disorder.
 
 Understanding the sentiment or mood behind text data is a crucial task in Natural Language Processing (NLP). This project focuses on building a machine learning model that can effectively classify the disorder expressed in textual input. The model can have various applications such as sentiment analysis for customer reviews, social media sentiment analysis, etc.
