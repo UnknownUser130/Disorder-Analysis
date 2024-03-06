@@ -7,7 +7,7 @@ Dataset
 The dataset used for training and evaluation is a collection of textual data labeled with different disorders. The dataset is not included in this repository due to licensing reasons. However, you can use any dataset of your choice or collect your own data for training the model.
 
 Model Architecture
-The model architecture used in this project is a recurrent neural network (RNN) with Long Short-Term Memory (LSTM) units. LSTMs are well-suited for sequence data like text due to their ability to retain long-term dependencies. The model is trained using the TensorFlow framework.
+The model architecture used in this project are SVM(Support Vector Machines),MultilayerPerceptron and Decision tree to identify the best possible model for this task.
 
 Dependencies
 Python 3.x
@@ -16,16 +16,19 @@ NumPy
 Pandas
 scikit-learn
 nltk
+
 You can install these dependencies using pip:
 
+```python
 pip install pandas scikit-learn nltk matplotlib
-
+```
 Additionally, you might need to download NLTK resources such as stopwords and WordNet. You can do this by running the following Python code after installing NLTK:
 
+```python
 import nltk
 nltk.download('stopwords')
 nltk.download('wordnet')
-
+```
 Usage
 To train the model, you need to provide the dataset in the appropriate format. Once the dataset is prepared, you can use the provided scripts to preprocess the data, train the model, and evaluate its performance. Here's a general outline of the steps:
 
