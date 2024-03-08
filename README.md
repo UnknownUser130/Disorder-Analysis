@@ -10,7 +10,7 @@ Model Architecture
 The model architecture used in this project are SVM(Support Vector Machines),MultilayerPerceptron and Decision tree to identify the best possible model for this task.
 
 Dependencies
-Python 3.x
+Python 3.8
 TensorFlow
 NumPy
 Pandas
