@@ -3,13 +3,13 @@ This repository contains code for a Disorder Analysis Classification Machine Lea
 
 Understanding the sentiment or mood behind text data is a crucial task in Natural Language Processing (NLP). This project focuses on building a machine learning model that can effectively classify the disorder expressed in textual input. The model can have various applications such as sentiment analysis for customer reviews, social media sentiment analysis, etc.
 
-Dataset
+# Dataset
 The dataset used for training and evaluation is a collection of textual data labeled with different disorders. The dataset is not included in this repository due to licensing reasons. However, you can use any dataset of your choice or collect your own data for training the model.
 
-Model Architecture
+# Model Architecture
 The model architecture used in this project are SVM(Support Vector Machines),MultilayerPerceptron and Decision tree to identify the best possible model for this task.
 
-Dependencies
+# Dependencies
 Python 3.8
 TensorFlow
 NumPy
