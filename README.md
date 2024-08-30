@@ -33,7 +33,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('punkt')
 ```
-Usage
+Usage:
 To train the model, you need to provide the dataset in the appropriate format. Once the dataset is prepared, you can use the provided scripts to preprocess the data, train the model, and evaluate its performance. Here's a general outline of the steps:
 
 Prepare Dataset: Prepare your dataset and preprocess it if necessary.
