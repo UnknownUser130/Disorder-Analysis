@@ -38,5 +38,5 @@ To train the model, you need to provide the dataset in the appropriate format. O
 
 Prepare Dataset: Prepare your dataset and preprocess it if necessary.
 Train Model: Train the mood classification model using the prepared dataset.
-Evaluate Model: Evaluate the performance of the trained model using test data.
+Evaluate Model: Evaluated the performance of the trained model using test data.
 Predictions: Make predictions on new textual data to classify the mood or disorder.
